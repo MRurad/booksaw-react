@@ -63,12 +63,6 @@ const Header = () => {
           </li>
         </ul>
       </nav>
-      <p className="font-prata">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem
-        optio rem beatae. Quisquam, et laborum reprehenderit molestias iure
-        dolore voluptatem placeat ea eaque impedit optio rem deserunt, ex
-        consequatur nam.
-      </p>
     </div>
   );
 };
