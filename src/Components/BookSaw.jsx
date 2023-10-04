@@ -85,7 +85,7 @@ const BookSaw = () => {
         </div>
       </div>
     </div>
-      <div className="w-[266px] h-[61px] flex justify-center items-center p-3 border border-[#C0C0C0] mt-[230px] ml-[680px]">
+      <div className="w-[266px] mb-[50px] h-[61px] flex justify-center items-center p-3 border border-[#C0C0C0] mt-[230px] ml-[680px]">
           <p className="uppercase text-center text-[#111] mr-3">read all articles</p>
           <a href="#"><AiOutlineArrowRight/></a>
       </div>
