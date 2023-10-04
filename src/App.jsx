@@ -3,6 +3,7 @@ import Container from "./Components/Container";
 import Subscriber from "./Components/Subscriber"
 import BookSaw from "./Components/BookSaw"
 import UseApp from "./Components/useApp"
+import Footer from "./Components/Footer"
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <Subscriber/>  
       <BookSaw/>  
       <UseApp/>
+      <Footer/>
     </Container>
   );
 };

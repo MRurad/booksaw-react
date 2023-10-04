@@ -20,9 +20,9 @@ const useApp = () => {
         <img className="text-white absolute  bottom-3 left-2 w-[260px] h-[560px] ml-[205px] mt-[94px]" src={IosScreen} alt="" />
       </div>
       <div>
-        <p className="text-[#111] w-[594px] h-[65px]  text-5xl font-normal capitalize">download our app now !</p>
+        <p className="text-[#111] w-[594px] h-[65px]  text-5xl font-normal font-prata capitalize">download our app now !</p>
         <img className="mb-[50px]" src={Wave} alt="" />
-        <p className="w-[620px] text-[#7A7A7A] text-base leading-8 tracking-[0.32px] h-[100px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis sed ptibus liberolectus nonet psryroin. Amet sed lorem posuere sit iaculis amet, ac urna. Adipiscing fames semper erat ac in suspendisse iaculis.</p>
+        <p className="w-[620px] text-[#7A7A7A] text-base leading-8 tracking-[0.32px] font-jekarta h-[100px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis sed ptibus liberolectus nonet psryroin. Amet sed lorem posuere sit iaculis amet, ac urna. Adipiscing fames semper erat ac in suspendisse iaculis.</p>
         <div className="flex mt-5 ">
 <img className="mr-3" src={PlayStore}  alt="" />
 <img src={AppStore} alt="" />
